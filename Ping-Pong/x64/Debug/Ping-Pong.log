@@ -1,0 +1,6 @@
+﻿  ball.cpp
+  game.cpp
+C:\Users\Nikola\Desktop\Projects\C++\Ping-Pong\Ping-Pong\include\game\game.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Application.cpp
+  Generating Code...
+  Ping-Pong.vcxproj -> C:\Users\Nikola\Desktop\Projects\C++\Ping-Pong\x64\Debug\Ping-Pong.exe
