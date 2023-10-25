@@ -23,7 +23,7 @@ Before running the game, make sure you have the following:
 
 ### Running the Executable
 
-1. Download the game by clicking the [Download the Executable](https://github.com/nosferatu255/Ping-Pong/x64/Debug/Ping-Pong.exe) link.
+1. Download the game by clicking the [Download the Executable]([https://github.com/nosferatu255/Ping-Pong/x64/Debug](https://github.com/nosferatu255/Ping-Pong/tree/main/x64/Debug)/Ping-Pong.exe) link.
 2. Run the downloaded `Ping-Pong.exe` file.
 
 ### Building and Running from Source
